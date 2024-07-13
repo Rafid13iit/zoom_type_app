@@ -1,3 +1,5 @@
+<img src="https://github.com/Rafid13iit/zoom_type_app/blob/master/public/Cover.png?raw=true" width="750" height="400" align="center">
+
 # BOOM the-zoom-type-app
 
 Zoom Type App is a Next.js application that allows users to create, schedule, and join meetings, as well as view meeting recordings.
